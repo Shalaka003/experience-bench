@@ -1,0 +1,31 @@
+rubrics:
+  - tag: IM1
+    category: Inference Memory
+    criterion: The Day 1 nightwear includes a night suit paired with a Purdue t-shirt.
+  - tag: IM2
+    category: Inference Memory
+    criterion: The beach outfit consists of a standard t-shirt, shorts, a towel, and a cap.
+  - tag: IM3
+    category: Inference Memory
+    criterion: The flight outfit is a warm ensemble intended to be worn on the plane rather than packed in the suitcase.
+  - tag: IM4
+    category: Inference Memory
+    criterion: The outfit packed for the user's friend is the blue "Tropical Islands" t-shirt.
+  - tag: IM5
+    category: Inference Memory
+    criterion: The spare clothing is an extra t-shirt packed in case the user gets wet at the beach.
+  - tag: IR1
+    category: Instruction Retention
+    criterion: The user must remember to wear their designated flight outfit to the airport to avoid getting cold.
+  - tag: IR2
+    category: Instruction Retention
+    criterion: The user needs to find the missing matching black sock before leaving.
+  - tag: IR3
+    category: Instruction Retention
+    criterion: The user must buy foundation in a neutral shade prior to the trip.
+  - tag: IR4
+    category: Instruction Retention
+    criterion: The user should message their friend to check flight times and coordinate landing logistics.
+  - tag: IR5
+    category: Instruction Retention
+    criterion: The user needs to search for their sunglasses and clips so they can be packed later.

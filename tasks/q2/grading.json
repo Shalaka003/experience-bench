@@ -1,0 +1,45 @@
+{
+  "rubric_results": [
+    {
+      "tag": "SC1",
+      "result": 1,
+      "justification": "The response correctly identifies that the spare clothing (the extra red/pink t-shirt and the light blue 'Tropical Islands' t-shirt) is packed in the left side of the suitcase (lid)."
+    },
+    {
+      "tag": "SC2",
+      "result": 0,
+      "justification": "The response incorrectly states that the white socks are tucked into the 'bottom edge' instead of the required 'left edge'."
+    },
+    {
+      "tag": "SC3",
+      "result": 0,
+      "justification": "The response fails to place the black sock in the left edge of the left side (lid), instead grouping it with accessories in the right side."
+    },
+    {
+      "tag": "SC4",
+      "result": 0,
+      "justification": "The response incorrectly states that the accessories and extras (towel, cap, makeup, single black sock) are packed in the right side (deep compartment) instead of the left side (lid)."
+    },
+    {
+      "tag": "SC5",
+      "result": 1,
+      "justification": "The response correctly states that the Day 1 nightwear (ghost/pumpkin night suit, dark grey Hacktoberfest t-shirt, yellow Purdue t-shirt) is packed in the right side of the suitcase (deep compartment)."
+    },
+    {
+      "tag": "SC6",
+      "result": 0,
+      "justification": "The response incorrectly states the blue jersey was placed on top of the left side (lid) rather than the right side (deep compartment)."
+    },
+    {
+      "tag": "SC7",
+      "result": 1,
+      "justification": "The response accurately places the beach outfit (grey tie-dye t-shirt and grey shorts) in the right side of the suitcase (deep compartment)."
+    },
+    {
+      "tag": "SC8",
+      "result": 1,
+      "justification": "The response correctly notes that the flight outfit (warm beige set) is left unpacked on the bed."
+    }
+  ],
+  "aggregate_score": 0.5
+}

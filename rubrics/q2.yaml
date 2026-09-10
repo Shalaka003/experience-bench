@@ -1,0 +1,25 @@
+rubrics:
+  - tag: SC1
+    category: Self Coherence
+    criterion: The spare clothing (the extra red/pink t-shirt and the light blue "Tropical Islands" t-shirt) is packed in the left side of the suitcase (lid).
+  - tag: SC2
+    category: Self Coherence
+    criterion: The white socks are tucked into the left edge of the left side of the suitcase (lid).
+  - tag: SC3
+    category: Self Coherence
+    criterion: A black sock is tucked into the left edge of the left side of the suitcase (lid).
+  - tag: SC4
+    category: Self Coherence
+    criterion: The accessories and extras (the green and white striped towel, the dark grey cap, the MAC and Clinique makeup, and the single black sock) are packed in the left side of the suitcase (lid).
+  - tag: SC5
+    category: Self Coherence
+    criterion: The Day 1 nightwear (the ghost/pumpkin night suit, the dark grey Hacktoberfest t-shirt, and the yellow Purdue t-shirt) is packed in the right side of the suitcase (deep compartment).
+  - tag: SC6
+    category: Self Coherence
+    criterion: The blue jersey to give to a friend is placed on top of the right side of the suitcase (deep compartment) right before strapping it in.
+  - tag: SC7
+    category: Self Coherence
+    criterion: The beach outfit (the grey tie-dye t-shirt and grey shorts) is packed in the right side of the suitcase (deep compartment).
+  - tag: SC8
+    category: Self Coherence
+    criterion: The flight outfit (the warm beige set) is left unpacked on the bed so it can be worn to the airport.

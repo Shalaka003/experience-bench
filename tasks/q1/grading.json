@@ -1,0 +1,55 @@
+{
+  "rubric_results": [
+    {
+      "tag": "IM1",
+      "result": 1,
+      "justification": "The response explicitly states that the Day 1 nightwear is 'A night suit paired with a Purdue t-shirt.'"
+    },
+    {
+      "tag": "IM2",
+      "result": 0,
+      "justification": "The response states the beach outfit is 'A standard t-shirt and shorts' but misses the towel and cap required by the rubric."
+    },
+    {
+      "tag": "IM3",
+      "result": 1,
+      "justification": "The response correctly identifies the flight outfit as 'A warm outfit intended to be worn on the plane rather than packed.'"
+    },
+    {
+      "tag": "IM4",
+      "result": 0,
+      "justification": "The response incorrectly describes the friend's outfit as 'A beige outfit' instead of the required blue 'Tropical Islands' t-shirt."
+    },
+    {
+      "tag": "IM5",
+      "result": 1,
+      "justification": "The response successfully captures that the spare clothing is 'An extra t-shirt packed in case you get wet at the beach.'"
+    },
+    {
+      "tag": "IR1",
+      "result": 1,
+      "justification": "The response accurately includes the reminder to 'Wear your designated flight outfit to the airport so you aren't cold.'"
+    },
+    {
+      "tag": "IR2",
+      "result": 0,
+      "justification": "The response completely omits the instruction to find the missing matching black sock."
+    },
+    {
+      "tag": "IR3",
+      "result": 1,
+      "justification": "The response correctly notes the need to 'Buy foundation in a neutral shade before the trip.'"
+    },
+    {
+      "tag": "IR4",
+      "result": 1,
+      "justification": "The response correctly includes the reminder to 'Message your friend to check their flight times and coordinate when they are landing.'"
+    },
+    {
+      "tag": "IR5",
+      "result": 0,
+      "justification": "The response completely omits the instruction to search for the sunglasses and clips to pack later."
+    }
+  ],
+  "aggregate_score": 0.6
+}
